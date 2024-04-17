@@ -31,6 +31,6 @@ I am guy who dosn't like to add more and more packages. Less is Good.
 In the age of AI and companies forking source code harding working developers. I belive publishing code openly might cause some issues with mine and others hard work. I have combine some tools in such a way that they work for each other.
 
 ### Who will get the code?
-I will share the code with you and teams. I will help to understand too ($). You can post a message in discussion.
+I will share the code with you and teams. I will help to understand too ($). You can post a message in discussion - https://github.com/anant-svc/slimonade/discussions/1
 
 If you want the project then add stars.
