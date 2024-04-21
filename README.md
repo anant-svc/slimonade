@@ -15,6 +15,9 @@ Features available:
 * Session manager
 * In-built Error handler
 * No complex code
+* Features: CSRF, Events, Dependency Inject, Container, Factory, Fast Routing
+* Slim PHP Coding Standard for better code writing
+* Support for LESS, SASS and Bootstrap CSS with PurgeCSS feature (Original Boostrap CSS minify file is ~137 kb and PurgeCSS removes unused css to ~7kb)
 
 ---
 
@@ -32,5 +35,16 @@ In the age of AI and companies forking source code harding working developers. I
 
 ### Who will get the code?
 I will share the code with you and teams. I will help to understand too ($). You can post a message in discussion - https://github.com/anant-svc/slimonade/discussions/1
+
+---
+
+### Credits
+
+* Slim Framework Teamd and Community developers
+* Lemonade JS Team
+* The PHP League Team
+* Bootstrap CSS Team
+* Purge CSS Team
+* Aura Team
 
 If you want the project then add stars.
