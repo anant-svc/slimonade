@@ -52,6 +52,9 @@ In the age of AI and companies forking source codes of hard working developers a
 ### Who will get the code?
 I will share the code with you and teams. I will help to understand and customize ($). You can post a message in discussion - https://github.com/anant-svc/slimonade/discussions/1
 
+### Where is code hosting?
+I have hosted the source code on alternate website privately.
+
 ---
 
 ### Credits
