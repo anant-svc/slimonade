@@ -11,6 +11,13 @@ For whom:
 * Cost effective and value for money
 * Frustrated by subscriptions
 
+# Breanchmark:
+* There is no page caching
+* Only tweaked nginx and php-fpm services
+
+![image](https://github.com/anant-svc/slimonade/assets/5195107/d2c6bafc-d795-4f6a-84dc-c90b7a9eb55d)
+
+
 Features available:
 * Fastest PSR 7 routing
 * Faster Templating Engine - Plates
