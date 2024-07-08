@@ -21,7 +21,7 @@ For whom:
 * Your static sites new home
 * Build small to large applications
 * Cost effective and value for money
-* Frustrated by subscriptions
+* Quick development and scale it
 
 # Breanchmark:
 * There is no page caching
