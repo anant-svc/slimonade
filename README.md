@@ -3,12 +3,12 @@
 
 Runs on PHP 8.1
 
-https://github.com/anant-svc/slimonade/assets/5195107/e35f70eb-ef75-4860-ac2d-8b3e3f616e23
-
 Project stats:
 * 4 MB zip project
 * 15 PHP dependencies
 * 5 CSS/JS dependencies
+
+https://github.com/anant-svc/slimonade/assets/5195107/e35f70eb-ef75-4860-ac2d-8b3e3f616e23
 
 PHP Info:
 * Demo - https://slimonade-front.000webhostapp.com/
