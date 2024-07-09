@@ -8,6 +8,8 @@ Project stats:
 * 15 PHP dependencies
 * 5 CSS/JS dependencies
 
+![09 07 2024_07 30 37_REC](https://github.com/anant-svc/slimonade/assets/5195107/f68105c5-b240-4374-90c5-2e1ff222d7cd)
+
 https://github.com/anant-svc/slimonade/assets/5195107/e35f70eb-ef75-4860-ac2d-8b3e3f616e23
 
 PHP Info:
@@ -22,6 +24,7 @@ For whom:
 * Build small to large applications
 * Cost effective and value for money
 * Quick development and scale it
+* React developer - it is similar to JSX syntax (LemonadeJS - Free!)
 
 # Breanchmark:
 * There is no page caching
