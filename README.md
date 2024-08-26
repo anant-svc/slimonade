@@ -1,36 +1,30 @@
-# slimonade 
+# Slimonade Front
 ### It is combination of [ Slim Framework ]( https://www.slimframework.com/ ) and [ LemonadeJS ]( https://lemonadejs.net/ )
 
-Runs on PHP 8.1
+Runs on PHP 8.1 or earlier (**Read Features, FAQs, Watch screenshots: Preview, Benchmark and Video scroll down**)
 
-Project stats:
-* 4 MB zip project
-* 15 PHP dependencies
-* 5 CSS/JS dependencies
+### Project stats:
+* **4 MB zip project**
+* **15 PHP dependencies**
+* **5 CSS/JS dependencies**
+* **Super Fast Routing**
 
-![09 07 2024_07 30 37_REC](https://github.com/anant-svc/slimonade/assets/5195107/f68105c5-b240-4374-90c5-2e1ff222d7cd)
-
-https://github.com/anant-svc/slimonade/assets/5195107/e35f70eb-ef75-4860-ac2d-8b3e3f616e23
-
-PHP Info:
+PHP Info of the demo server:
 * Demo - https://slimonade-front.000webhostapp.com/
+* Plan - Free (limited settings)
 * PHP Version - 8.2.13
 * OPCache - Disabled
 * Nginx
 * Apache2
 
 For whom:
-* Your static sites new home
+* Your new home to: static, small, big, large applications
 * Build small to large applications
 * Cost effective and value for money
 * Quick development and scale it
 * React developer - it is similar to JSX syntax (LemonadeJS - Free!)
-* Added Router With Attribute supports. (Credit: https://www.youtube.com/watch?v=I7WJa-he5oM)
 
-# In-Progress
-* Adding OpenSwoole Support
-
-# Breanchmark:
+# Breanchmark setup:
 * There is no page caching
 * Only tweaked nginx and php-fpm services
 
@@ -39,9 +33,8 @@ For whom:
 
 Features available:
 * Fastest PSR 7 routing
-* Faster Templating Engine - Plates
+* Fallback Templating Engine - Plates integrated with Slim Routing and extra helpful methods added
 * PSR 3 Logger
-* Theme based fallback
 * Lazy PDO
 * Modular
 * Midleware
@@ -53,6 +46,10 @@ Features available:
 * Slim PHP Coding Standard for better code writing
 * Support for LESS, SASS and Bootstrap CSS with PurgeCSS feature (Original Boostrap CSS minify file is ~137 kb and PurgeCSS removes unused css to ~7kb)
 * For DOM reactivity:  [ LemonadeJS ]( https://lemonadejs.net/ )
+* Added Router With Attribute supports. (Credit: https://www.youtube.com/watch?v=I7WJa-he5oM)
+
+# In-Progress
+* Adding OpenSwoole Support
 
 ---
 
@@ -65,14 +62,20 @@ To some time, I eventually subscribed to some quality newsletters for JavaScript
 
 I am guy who dosn't like to add more and more packages. Less is Good.
 
+![09 07 2024_07 30 37_REC](https://github.com/anant-svc/slimonade/assets/5195107/f68105c5-b240-4374-90c5-2e1ff222d7cd)
+
+https://github.com/anant-svc/slimonade/assets/5195107/e35f70eb-ef75-4860-ac2d-8b3e3f616e23
+
+# FAQs
+
 #### Why it is not open source?
 In the age of AI and companies forking source codes of hard working developers and rename to their brand. I belive publishing code openly might cause license issues and others hard work. I have combine these wonderful tools in such a way that they work with each other. Slim work with templating engine. In Templating engine, I added useful functions and there are no match on Google. Even the Slim framework boilerplates do not have these things.
 
 ### Who will get the code?
-I will share the code with you and teams. I will help to understand and customize ($). You can post a message in discussion - https://github.com/anant-svc/slimonade/discussions/1
+I will share the code with you and teams. I will help to understand and customize ($). You can contact me here - https://form.jotform.com/241625475962464
 
-### Where is code hosting?
-I have hosted the source code on alternate website privately.
+### Where is code maintenaned?
+I have maintenaned the source code on Codeberg.
 
 ---
 
