@@ -25,6 +25,10 @@ For whom:
 * Cost effective and value for money
 * Quick development and scale it
 * React developer - it is similar to JSX syntax (LemonadeJS - Free!)
+* Added Router With Attribute supports. (Credit: https://www.youtube.com/watch?v=I7WJa-he5oM)
+
+# In-Progress
+* Adding OpenSwoole Support
 
 # Breanchmark:
 * There is no page caching
