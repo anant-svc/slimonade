@@ -10,7 +10,7 @@ Runs on PHP 8.1 or earlier (**Read Features, FAQs, Watch screenshots: Preview, B
 * **Super Fast Routing**
 
 PHP Info of the demo server:
-* Demo - https://slimonade-front.000webhostapp.com/
+* Watch Demo Video Now - Scroll down now
 * Plan - Free (limited settings)
 * PHP Version - 8.2.13
 * OPCache - Disabled
