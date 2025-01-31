@@ -2,12 +2,22 @@
 ### It is combination of [ Slim Framework ]( https://www.slimframework.com/ ) and [ LemonadeJS ]( https://lemonadejs.net/ )
 
 Runs on PHP 8.1 or earlier (**Read Features, FAQs, Watch screenshots: Preview, Benchmark and Video scroll down**)
+* Get in touch in the Discussions tab.
 
 ### Project stats:
 * **4 MB zip project**
 * **15 PHP dependencies**
 * **5 CSS/JS dependencies**
 * **Super Fast Routing**
+
+### New Features Added:
+* You can now add custom 404 not found page easily from module and event observer. (You might find developers strugle to add in Slim framework)
+
+### Ongoing:
+* Refractoring code to code less, powerfull and readable.
+* Add new features like DB, Cron, RabbitMQ support
+* Add support to FrankenPHP
+* This will be deployed on a new server soon.
 
 PHP Info of the demo server:
 * Watch Demo Video Now - Scroll down now
