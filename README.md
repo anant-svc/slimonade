@@ -1,6 +1,8 @@
 # Slimonade Front
 ### It is combination of [ Slim Framework ]( https://www.slimframework.com/ ) and [ LemonadeJS ]( https://lemonadejs.net/ )
 
+![09 07 2024_07 30 37_REC](https://github.com/anant-svc/slimonade/assets/5195107/f68105c5-b240-4374-90c5-2e1ff222d7cd)
+
 Runs on PHP 8.1 or earlier (**Read Features, FAQs, Watch screenshots: Preview, Benchmark and Video scroll down**)
 * Get in touch in the Discussions tab.
 
@@ -71,8 +73,6 @@ I finalize the PHP packages i.e. Slim Framework because of easily integrate any 
 To some time, I eventually subscribed to some quality newsletters for JavaScript and PHP. They showd the JavaScript library - LemonadeJS by Jspreadsheet.
 
 I am guy who dosn't like to add more and more packages. Less is Good.
-
-![09 07 2024_07 30 37_REC](https://github.com/anant-svc/slimonade/assets/5195107/f68105c5-b240-4374-90c5-2e1ff222d7cd)
 
 https://github.com/anant-svc/slimonade/assets/5195107/e35f70eb-ef75-4860-ac2d-8b3e3f616e23
 
