@@ -4,6 +4,11 @@
 ## Discord
 https://discord.gg/VSqeKMhQ
 
+## DEMO WEBSITE - https://slimonade-front.lovestoblog.com/
+
+## Page Speed
+https://pagespeed.web.dev/analysis/https-slimonade-front-lovestoblog-com/rqe9ieg0ca?form_factor=mobile
+
 ## VIDEO
 https://github.com/anant-svc/slimonade/assets/5195107/e35f70eb-ef75-4860-ac2d-8b3e3f616e23
 
